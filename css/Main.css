@@ -1,0 +1,70 @@
+#Main_div{
+	border: 2px solid #5BC0DE;
+	width: 600px;
+	height: auto;
+	margin: auto;
+	text-align: center;
+}
+
+.grid{
+	/*background-color: #9d9d9d;*/
+	margin: 0;
+	/*border: 1px solid whitesmoke;*/
+	width: 50px;
+	height: 50px;
+	display: block;
+	float: left;
+	color: #000;
+}
+
+.grid-css{
+	width: 50px;
+	height: 50px;
+	display: none;
+}
+
+.dis-gird{
+	background-color: white;
+	margin: 0;
+	width: 25px;
+	height: 25px;
+	display: block;
+	float: left;
+}
+
+.flag{
+	font-size: 24px;
+	color: green;
+
+}
+.open{
+	background-color: white;
+}
+.boom {
+	/*background-color: white;*/
+	color: red;
+	font-size: 24px;
+
+}
+
+.glyphicon {
+	top: 0;
+
+}
+#Info_div{
+	margin: auto;
+	width: 1200px;
+	min-height: 80px;
+}
+
+.input-div {
+	padding: 15px;
+	text-align: left;
+	float: right;
+}
+
+.time-div{
+	text-align: right;
+	display:inline-block;
+	float: left;
+}
